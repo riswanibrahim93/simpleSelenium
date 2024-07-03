@@ -26,7 +26,7 @@ public class SeleniumTest {
     public void cobaBukaBrowser(){
         keyword.go_to_url("https://www.google.com/");
         keyword.set_text("Riswan Ibrahim", "//textarea[@title='Search']");
-        keyword.click("(//input[@value='Google Search'])[1]");
+        keyword.click("(//input[@value='Google Search'])[2]");
         keyword.click("(//div[@id='search']//h3[contains(text(),'Riswan Ibrahim')])[1]");
     }
     @AfterClass
