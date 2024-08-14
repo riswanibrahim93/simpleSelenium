@@ -9,7 +9,7 @@ public class DriverFactory {
 
     public WebDriver getWinChromeDriver() {
         setProperty("webdriver.chrome.driver",
-                "src/main/resources/chromeDriver/chromedriver126.exe");
+                "src/main/resources/chromeDriver/chromedriver127.exe");
         WebDriver driver = new ChromeDriver();
         // maximize
         driver.manage().window().maximize();
