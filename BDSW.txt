@@ -1,0 +1,9 @@
+BDSW
+persiapan data pembuatan nomor customer (Pemcis), dan nomor rekening (Pemrek)
+menentukan kebutuhan testing
+
+1. data lengkap => menggunakaan script BDS Web
+
+2. data customer dan rekening default => menggunakan script BDS API
+
+jika endpoint service API ada update bisa pakai short script persiapan data

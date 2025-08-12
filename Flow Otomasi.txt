@@ -1,0 +1,38 @@
+Proses testing 
+
+UAT 
+- meeting
+menentukan pembagian flow otomasi (dibagi per part)
+sharing DDT (Data-Driven Testing)
+sharing Skenario
+menentukan strategi otomasi (statis/dinamis)
+menentukan bagian" yang perlu di by pass dan explore
+
+- mapping flow otomasi
+menghindari repetitif step
+efisiensi
+
+- create skenario
+
+- test manual + create script otomasi
+
+- run script otomasi
+
+- report bug/defect/error (jika ditemukan)
+
+- report hasil running otomasi
+
+Regresi
+- meeting
+sharing skenario yang perlu di running
+sharing DDT (jika ada perubahan data)
+sharing update step/field (jika ada perubahan)
+
+- update script (jika ada perubahan object element/field)
+
+- run script otomasi
+
+- report bug/defect/error (jika ditemukan)
+
+- report hasil running otomasi
+
